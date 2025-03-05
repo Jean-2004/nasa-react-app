@@ -28,6 +28,7 @@
   display: flex;
   flex-direction: column;
   max-height: 100vh;
+  width: 100%;
 }
 
 .bgImage {
@@ -121,6 +122,11 @@ footer button:hover {
   flex: 1;
 }
 
+.sidebarContent h2 {
+  font-weight: 200;
+  font-size: 1.4rem;
+}
+
 .sidebarContent button {
   background: transparent;
   color: white;
@@ -130,11 +136,6 @@ footer button:hover {
   cursor: pointer;
   transition-duration: 200ms;
   padding: 1rem 0;
-}
-
-.sidebarContent h2 {
-  font-weight: 200;
-  font-size: 1.4rem;
 }
 
 .sidebarContent button:hover {
