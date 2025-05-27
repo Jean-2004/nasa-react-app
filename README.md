@@ -1,2 +1,2 @@
 # nasa-react-app
- Fazer um aplicativo ReactJS com a API da Nasa
+ Projeto feito utilizando HTML, CSS, Javascript e ReactJS, consumindo a API APOD, uma [API da Nasa](https://api.nasa.gov) que dá como resposta uma imagem diária relacionada a astronomia acompanhada de informações sobre ela, como a data, título e uma descrição básica sobre o contexto da imagem.
