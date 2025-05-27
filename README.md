@@ -1,2 +1,2 @@
 # nasa-react-app
- Projeto feito utilizando HTML, CSS, Javascript e ReactJS, consumindo a API APOD, uma [API da Nasa](https://api.nasa.gov) que dá como resposta uma imagem diária relacionada a astronomia acompanhada de informações sobre ela, como a data, título e uma descrição básica sobre o contexto da imagem.
+ Projeto feito utilizando HTML, CSS, Javascript e ReactJS, consumindo a API APOD, uma [API da Nasa](https://api.nasa.gov) que dá como resposta uma imagem diária relacionada a astronomia acompanhada de informações sobre ela, como a data, título e uma descrição básica sobre o contexto da imagem. Além disso, é salvo no LocalStorage do navegador os dado recebidos pela API, para que não precise fazer requests desnecessários à API no mesmo dia.
